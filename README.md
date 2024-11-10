@@ -1,6 +1,3 @@
-Aqui está o **README.md** completo formatado para você copiar e colar diretamente no seu repositório do GitHub:
-
-```markdown
 # SistemaPedidosAPI
 
 **SistemaPedidosAPI** é uma API RESTful desenvolvida em **ASP.NET Core** para gerenciar clientes, produtos e pedidos. Utiliza **PostgreSQL** como banco de dados, permitindo a manipulação eficiente dos dados essenciais para um sistema de vendas e inventário.
