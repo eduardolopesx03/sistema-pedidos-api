@@ -188,4 +188,3 @@ A documentação interativa do Swagger estará disponível em: `https://localhos
 - Certifique-se de que o **PostgreSQL** está em execução antes de iniciar o projeto.
 - Caso altere a string de conexão no arquivo `appsettings.json`, não se esqueça de atualizar as configurações e regenerar as migrações caso necessário.
 - Utilize o Swagger (`https://localhost:5045/swagger`) para testar interativamente a API e ver exemplos de respostas.
-```
